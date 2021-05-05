@@ -7,7 +7,7 @@ let line3 = document.querySelectorAll('.skills-line3');
 let skillsNumber = document.querySelectorAll('.skills-num');
 let skillsNumber2 = document.querySelectorAll('.skills-num2');
 let skillsNumber3 = document.querySelectorAll('.skills-num3');
-let movePic = document.querySelectorAll('.skills-right');
+let movePic = document.querySelector('.skills-right');
 let skillsRight = document.querySelector('.skills-right')
 
 let interval = setInterval(progressBar1, 20);
@@ -85,7 +85,7 @@ setTimeout(() => {
         })
 window.onscroll = function() {
     let scroll = window.scrollY;
-    if (scroll > 300) {
+    if (scroll > 200) {
         skillsRight.classList.add('movePics')
     }
     }
