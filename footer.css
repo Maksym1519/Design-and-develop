@@ -1,0 +1,10 @@
+.footer-wrap {
+  justify-content: space-between;
+}
+span.footer-wrap {
+  display: block;
+}
+.footer-title {
+  display: flex;
+  flex-direction: column;
+}
