@@ -504,8 +504,8 @@ img.mfp-img {
 .gallery-link {
   display: flex;
   width: calc(100%/4);
-  min-width: 320px;
-  min-height: 320px;
+  min-width: 310px;
+  min-height: 310px;
 }
 .gallery-link:hover {
   content: '';
