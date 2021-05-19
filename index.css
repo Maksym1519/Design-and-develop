@@ -106,6 +106,9 @@
   align-items: center;
   background-color: #10c9c3;
 }
+.feedback-wrapper img {
+  width: 100%;
+}
 .mfp-bg {
   top: 0;
   left: 0;
