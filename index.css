@@ -703,16 +703,14 @@ ul {
   height: 290px;
   background: #141414;
 }
-span.footer-wrap {
-  display: block;
-}
+
 .footer-title {
   display: flex;
   flex-direction: column;
   margin-top: 100px;
   color: #bcbcbc;
-  margin-right: 250px;
-}
+  margin-right: 10px;
+  }
 .footer-contacts {
   display: flex;
   flex-direction: column;
@@ -720,6 +718,7 @@ span.footer-wrap {
   font-size: 16px;
   font-family: sans-serif;
   margin-top: 100px;
+  margin-right: 10px;
 }
 .footer-about {
   display: flex;
@@ -728,6 +727,7 @@ span.footer-wrap {
   font-size: 16px;
   font-family: sans-serif;
   margin-top: 100px;
+  margin-right: 10px;
 }
 .footer-events {
   display: flex;
@@ -736,6 +736,7 @@ span.footer-wrap {
   font-size: 16px;
   font-family: sans-serif;
   margin-top: 100px;
+  margin-right: 10px;
 }
 .footer-sociaMedia {
   display: flex;
@@ -744,6 +745,7 @@ span.footer-wrap {
   font-size: 16px;
   font-family: sans-serif;
   margin-top: 100px;
+  margin-right: 10px;
 }
 .company-name {
   font-size: 16px;
