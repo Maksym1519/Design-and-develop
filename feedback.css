@@ -5,3 +5,6 @@
   display: flex;
   background-color: #10c9c3;
 }
+.feedback-wrapper img {
+max-width: 100%;
+}
