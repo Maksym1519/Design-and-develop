@@ -19,7 +19,7 @@
 .skills-right {
   background: url('/it-coding/landing/img/pic2.png') no-repeat center center;
   background-size: contain;
-  width: 500px;
+  max-width: 500px;
   height: 500px;
 }
 .skills-box {
